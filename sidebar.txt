@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[arq:home|Door43 (arq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-arq|d43-arq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-arq/archive/master.zip|d43-arq.zip]]
+
+**Recent Changes**
+{{changes>ns = arq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/arq|Ethnologue data]]
+
